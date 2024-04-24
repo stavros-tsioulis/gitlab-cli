@@ -1,0 +1,13 @@
+{
+  "name": "gitlab-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cli": "pnpm -F cli",
+    "gitlab": "pnpm -F gitlab"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
